@@ -1,0 +1,8 @@
+materials/models/player/likeaworm/benny/benny.vmt 
+materials/models/player/likeaworm/benny/benny.vtf 
+models/player/likeaworm/benny/benny.dx80.vtx 
+models/player/likeaworm/benny/benny.dx90.vtx 
+models/player/likeaworm/benny/benny.mdl 
+models/player/likeaworm/benny/benny.phy 
+models/player/likeaworm/benny/benny.sw.vtx 
+models/player/likeaworm/benny/benny.vvd 
